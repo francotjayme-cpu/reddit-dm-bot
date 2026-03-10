@@ -54,11 +54,11 @@ COOLDOWN_FILE = "replied_users.json"
 # ─── Mensajes de respuesta (rotación aleatoria) ──────────────────────────────
 # ⚠️  PERSONALIZA estos mensajes con tu propio estilo/link
 REPLY_MESSAGES = [
-    """Oi, obrigada pela mensagem 🙂 Estou bem ocupada aqui, mas passo mais tempo no meu Telegram onde posto conteúdo exclusivo e consigo responder todo mundo. Me encontra lá: https://jack-loppes-site.onrender.com/""",
+    """Oi, obrigada pela mensagem 🙂 Estou bem ocupada aqui, mas passo mais tempo no meu Telegram onde posto conteúdo exclusivo e consigo responder todo mundo. Me encontra lá: https://linktr.ee/jackloppes0""",
 
-    """Oi! Que bom ter notícia sua 😊 Aqui no Reddit não consigo responder tudo, mas no meu Telegram estou bem mais ativa e posto bastante coisa exclusiva. Passa lá: https://jack-loppes-site.onrender.com/""",
+    """Oi! Que bom ter notícia sua 😊 Aqui no Reddit não consigo responder tudo, mas no meu Telegram estou bem mais ativa e posto bastante coisa exclusiva. Passa lá: https://linktr.ee/jackloppes0""",
 
-    """Oi, obrigada por entrar em contato! Acabo não conseguindo acompanhar tudo por aqui, mas no meu Telegram posto conteúdo exclusivo e respondo muito mais. Te espero lá 🙂 https://jack-loppes-site.onrender.com/""",
+    """Oi, obrigada por entrar em contato! Acabo não conseguindo acompanhar tudo por aqui, mas no meu Telegram posto conteúdo exclusivo e respondo muito mais. Te espero lá 🙂 https://linktr.ee/jackloppes0""",
 ]
 
 
